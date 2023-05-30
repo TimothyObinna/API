@@ -1,1 +1,1 @@
-# This an application that get informations through API.
+# This is an application that get informations through API.
